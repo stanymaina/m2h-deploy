@@ -1049,19 +1049,19 @@ if(false) {}
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! /media/root/extra/Projects/hotel/src/assets/islagrande/css/open-iconic-bootstrap.min.css */"./src/assets/islagrande/css/open-iconic-bootstrap.min.css");
-__webpack_require__(/*! /media/root/extra/Projects/hotel/src/assets/islagrande/css/animate.css */"./src/assets/islagrande/css/animate.css");
-__webpack_require__(/*! /media/root/extra/Projects/hotel/node_modules/owl.carousel/dist/assets/owl.carousel.min.css */"./node_modules/owl.carousel/dist/assets/owl.carousel.min.css");
-__webpack_require__(/*! /media/root/extra/Projects/hotel/node_modules/owl.carousel/dist/assets/owl.theme.default.min.css */"./node_modules/owl.carousel/dist/assets/owl.theme.default.min.css");
-__webpack_require__(/*! /media/root/extra/Projects/hotel/src/assets/islagrande/css/magnific-popup.css */"./src/assets/islagrande/css/magnific-popup.css");
-__webpack_require__(/*! /media/root/extra/Projects/hotel/src/assets/islagrande/css/aos.css */"./src/assets/islagrande/css/aos.css");
-__webpack_require__(/*! /media/root/extra/Projects/hotel/src/assets/islagrande/css/ionicons.min.css */"./src/assets/islagrande/css/ionicons.min.css");
-__webpack_require__(/*! /media/root/extra/Projects/hotel/src/assets/islagrande/css/bootstrap-datepicker.css */"./src/assets/islagrande/css/bootstrap-datepicker.css");
-__webpack_require__(/*! /media/root/extra/Projects/hotel/src/assets/islagrande/css/jquery.timepicker.css */"./src/assets/islagrande/css/jquery.timepicker.css");
-__webpack_require__(/*! /media/root/extra/Projects/hotel/src/assets/islagrande/css/flaticon.css */"./src/assets/islagrande/css/flaticon.css");
-__webpack_require__(/*! /media/root/extra/Projects/hotel/src/assets/islagrande/css/icomoon.css */"./src/assets/islagrande/css/icomoon.css");
-__webpack_require__(/*! /media/root/extra/Projects/hotel/src/assets/islagrande/css/style.css */"./src/assets/islagrande/css/style.css");
-module.exports = __webpack_require__(/*! /media/root/extra/Projects/hotel/src/styles.css */"./src/styles.css");
+__webpack_require__(/*! /media/root/extra/Projects/holdings/hotel/src/assets/islagrande/css/open-iconic-bootstrap.min.css */"./src/assets/islagrande/css/open-iconic-bootstrap.min.css");
+__webpack_require__(/*! /media/root/extra/Projects/holdings/hotel/src/assets/islagrande/css/animate.css */"./src/assets/islagrande/css/animate.css");
+__webpack_require__(/*! /media/root/extra/Projects/holdings/hotel/node_modules/owl.carousel/dist/assets/owl.carousel.min.css */"./node_modules/owl.carousel/dist/assets/owl.carousel.min.css");
+__webpack_require__(/*! /media/root/extra/Projects/holdings/hotel/node_modules/owl.carousel/dist/assets/owl.theme.default.min.css */"./node_modules/owl.carousel/dist/assets/owl.theme.default.min.css");
+__webpack_require__(/*! /media/root/extra/Projects/holdings/hotel/src/assets/islagrande/css/magnific-popup.css */"./src/assets/islagrande/css/magnific-popup.css");
+__webpack_require__(/*! /media/root/extra/Projects/holdings/hotel/src/assets/islagrande/css/aos.css */"./src/assets/islagrande/css/aos.css");
+__webpack_require__(/*! /media/root/extra/Projects/holdings/hotel/src/assets/islagrande/css/ionicons.min.css */"./src/assets/islagrande/css/ionicons.min.css");
+__webpack_require__(/*! /media/root/extra/Projects/holdings/hotel/src/assets/islagrande/css/bootstrap-datepicker.css */"./src/assets/islagrande/css/bootstrap-datepicker.css");
+__webpack_require__(/*! /media/root/extra/Projects/holdings/hotel/src/assets/islagrande/css/jquery.timepicker.css */"./src/assets/islagrande/css/jquery.timepicker.css");
+__webpack_require__(/*! /media/root/extra/Projects/holdings/hotel/src/assets/islagrande/css/flaticon.css */"./src/assets/islagrande/css/flaticon.css");
+__webpack_require__(/*! /media/root/extra/Projects/holdings/hotel/src/assets/islagrande/css/icomoon.css */"./src/assets/islagrande/css/icomoon.css");
+__webpack_require__(/*! /media/root/extra/Projects/holdings/hotel/src/assets/islagrande/css/style.css */"./src/assets/islagrande/css/style.css");
+module.exports = __webpack_require__(/*! /media/root/extra/Projects/holdings/hotel/src/styles.css */"./src/styles.css");
 
 
 /***/ })
